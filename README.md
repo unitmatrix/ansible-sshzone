@@ -33,7 +33,7 @@ Target zone:
 
 This is a "Connection Type Plugin", as outlined in the [Ansible docs](http://docs.ansible.com/developing_plugins.html#connection-type-plugins).
 
-To install sshjail:
+To install sshzone:
 
 1. Clone this repo.
 2. Copy or link `sshzone.py` to one of the supported locations:
